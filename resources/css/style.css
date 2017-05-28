@@ -28,10 +28,11 @@ a {
   color: aquamarine;
 }
 
-.icon {
+#icon {
   padding-top: 30px;
 }
-.copyright {
+#copyright {
   text-align: right;
   color: gray;
+  padding-right: 10px;
 }
